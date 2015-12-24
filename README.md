@@ -1,6 +1,6 @@
 # Links extractor
 
-## Dependencies
+## Requirements
 
 - python 3
 - lxml
